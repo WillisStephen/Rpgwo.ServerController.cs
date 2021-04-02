@@ -1,4 +1,4 @@
-# Rpgwo.ServerController
+# Rpgwo.ServerController C#
 Controller that can automate some of the process of taking care of an RPGWO server as well as edit some of the internal files.
 
 ## Main Todo
